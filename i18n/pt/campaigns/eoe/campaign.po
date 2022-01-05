@@ -12,79 +12,79 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 
 msgid "Edge of the Earth"
-msgstr ""
+msgstr "Nos confins da Terra"
 
 msgid "Locations Revealed"
-msgstr ""
+msgstr "Locais Revelados"
 
 msgid "Supplies Recovered"
-msgstr ""
+msgstr "Suprimentos Recuperados"
 
 msgid "Memories Discovered"
-msgstr ""
+msgstr "Memórias Descobertas"
 
 msgid "Memories Banished"
-msgstr ""
+msgstr "Memórias Banidas"
 
 msgid "Seals Placed"
-msgstr ""
+msgstr "Selos Colocados"
 
 msgid "Seals Recovered"
-msgstr ""
+msgstr "Selos Recuperados"
 
 msgid "Dr. Amy Kensler"
-msgstr ""
+msgstr "Dra. Amy Kensler"
 
 msgid "Professor of Biology"
-msgstr ""
+msgstr "Professora de Biologia"
 
 msgid "Prof. William Dyer"
 msgstr ""
 
 msgid "Professor of Geology"
-msgstr ""
+msgstr "Professor de Geologia"
 
 msgid "Danforth"
 msgstr ""
 
 msgid "Brilliant Student"
-msgstr ""
+msgstr "Estudante Brilhante"
 
 msgid "Roald Ellsworth"
 msgstr ""
 
 msgid "Intrepid Explorer"
-msgstr ""
+msgstr "Explorador Intrépido"
 
 msgid "Takada Hiroko"
 msgstr ""
 
 msgid "Aeroplane Mechanic"
-msgstr ""
+msgstr "Mecânica de aviões"
 
 msgid "Avery Claypool"
 msgstr ""
 
 msgid "Antarctic Guide"
-msgstr ""
+msgstr "Guia Antártico"
 
 msgid "Dr. Mala Sinha"
-msgstr ""
+msgstr "Dra. Mala Sinha"
 
 msgid "Daring Physician"
-msgstr ""
+msgstr "Médica Corajosa"
 
 msgid "James \"Cookie\" Fredericks"
 msgstr ""
 
 msgid "Dubious Choice"
-msgstr ""
+msgstr "Escolha Duvidosa"
 
 msgid "Eliyah Ashevak"
 msgstr ""
 
 msgid "Dog Handler"
-msgstr ""
+msgstr "Adestrador de cães"
 
 msgctxt "female"
 msgid "Dr. Amy Kensler"
@@ -124,75 +124,76 @@ msgstr ""
 
 msgctxt "male"
 msgid "Green Soapstone"
-msgstr ""
+msgstr "Pedra-sabão verde"
 
 msgctxt "male"
 msgid "Wooden Sledge"
-msgstr ""
+msgstr "Trenó de madeira"
 
 msgctxt "male"
 msgid "Dynamite"
-msgstr ""
+msgstr "Dinamite"
 
 msgctxt "male"
 msgid "Miasmic Crystal"
-msgstr ""
+msgstr "Cristal Miasmico"
 
 msgctxt "male"
 msgid "Mineral Specimen"
-msgstr ""
+msgstr "Espécime Mineral"
 
 msgctxt "male"
 msgid "Small Radio"
-msgstr ""
+msgstr "Rádio Pequeno"
 
 msgctxt "male"
 msgid "Spare Parts"
-msgstr ""
+msgstr "Peças de reposição"
 
 msgid "(horror)"
-msgstr ""
+msgstr "(Horror)"
 
 msgid "(damage)"
-msgstr ""
+msgstr "(Dano)"
 
 msgid "(card)"
-msgstr ""
+msgstr "(Carta)"
 
 msgid "(resources)"
-msgstr ""
+msgstr "(Recursos)"
 
 msgid "(action)"
-msgstr ""
+msgstr "(Ação)"
 
 msgid "(clue)"
-msgstr ""
+msgstr "(Pista)"
 
 msgid "(asset)"
-msgstr ""
+msgstr "(Ativo)"
 
 msgid "Cookie's Custom .32"
-msgstr ""
+msgstr ".32 personalizada do Cookie"
 
 msgid "Madness Spreads Under the Ice"
-msgstr ""
+msgstr "Loucura se espalha sob o gelo"
 
 msgid ""
 "“That seething, half-luminous cloud-background held ineffable suggestions of a vague, ethereal <i>beyondness</i> far more than terrestrially spatial; and gave appalling reminders of the utter remoteness, separateness, desolation, and aeon-long death of this untrodden and unfathomed austral world.”\n"
 "<i>–H. P. Lovecraft,</i> At the Mountains of Madness"
-msgstr ""
+msgstr "“Aquele fundo de nuvem fervilhante e semiluminoso continha sugestões inefáveis de um além-estar vago e etéreo muito mais do que espacialmente terrestre; e deu terríveis lembretes do completo afastamento, separação, desolação e morte de uma eternidade deste mundo austral inexplorado e insondável. ”\ n"
+"<i> -H. P. Lovecraft, </i> Nas Montanhas da Loucura"
 
 msgid "<i>I want to return from the expedition</i>"
-msgstr ""
+msgstr "<i> Quero voltar da expedição </i>"
 
 msgid "<i>I want to struggle against the elements</i>"
-msgstr ""
+msgstr "<i> Quero lutar contra os elementos </i>"
 
 msgid "<i>I want to delve into the lost city</i>"
-msgstr ""
+msgstr "<i> Quero mergulhar na cidade perdida </i>"
 
 msgid "<i>I want to know the name of true madness</i>"
-msgstr ""
+msgstr "<i> Quero saber o nome da verdadeira loucura </i>"
 
 msgid "Checkpoints"
 msgstr ""
@@ -200,15 +201,17 @@ msgstr ""
 msgid ""
 "Some of the scenarios in the <i>Edge of the Earth</i> campaign are split into multiple parts. Players may choose to play these parts one at a time (with breaks between each part), or they may play multiple parts one after another as part of a longer session. Each part is its own game with its own setup and resolution.\n"
 "After completing one part of a scenario, the campaign guide directs the investigators to a Checkpoint that instructs them how to proceed. If the investigators wish to proceed directly to the next part of the scenario, the Checkpoint will instruct them how to clean up the game to prepare for the next part of the scenario. If the investigators wish to take a break and resume playing during their next game session, the Checkpoint will instruct them to record information in the Campaign Log that makes setup for the next session quick and easy."
-msgstr ""
+msgstr ""Alguns dos cenários da campanha <i> Nos confins da Terra </i> são divididos em várias partes. Os jogadores podem escolher jogar essas partes uma de cada vez (com intervalos entre cada parte) ou podem jogar várias partes uma após a outra como parte de uma sessão mais longa. Cada parte é seu próprio jogo com sua própria configuração e resolução. \ n "
+"Depois de completar uma parte de um cenário, o guia da campanha direciona os investigadores a um Checkpoint que os instrui sobre como proceder. Se os investigadores desejarem prosseguir diretamente para a próxima parte do cenário, o Checkpoint irá instruí-los como limpar o jogo para se preparar para a próxima parte do cenário. Se os investigadores desejarem fazer uma pausa e retomar o jogo durante a próxima sessão de jogo, o Checkpoint irá instruí-los a registrar informações no Registro de Campanha que torna a configuração para a próxima sessão rápida e fácil . ""
 
 msgid "Frost Tokens"
-msgstr ""
+msgstr "Tokens Congelado"
 
 msgid ""
 "This expansion introduces a new type of chaos token: the frost ([frost]) token. At the start of the <i>Edge of the Earth</i> campaign, the chaos bag contains only a few relatively harmless [frost] tokens, if any. As the expedition continues, depending on the decisions the investigators make and the events that unfold, more [frost] tokens may be added to (or removed from) the chaos bag, altering the difficulty of every test the investigators perform. The more frost tokens are added to the chaos bag, the more crippling their effects become.\n"
 ""
-msgstr ""
+msgstr ""Esta expansão introduz um novo tipo de token do caos: o token congelado ([Congelado]). No início da campanha <i> Nos confins da Terra </i>, o saco do caos contém apenas algumas fichas [congelado] relativamente inofensivas, se houver. À medida que a expedição continua, dependendo das decisões que os investigadores tomam e dos eventos que se desenrolam, mais fichas [congeladas] podem ser adicionadas (ou removidas) ao saco do caos, alterando a dificuldade de cada teste que os investigadores realizam . Quanto mais fichas de gelo são adicionadas ao saco do caos, mais paralisantes seus efeitos se tornam. \ N "
+"""
 
 msgid ""
 "The first [frost] token revealed from the chaos bag during a skill test has the following effect: \"-1. Reveal another token.\" If another [frost] token is revealed from the chaos bag during the same test, immediately end the \"reveal chaos tokens\" step of the skill test and resolve the test as an automatic failure. <i>(Return all revealed [frost] tokens to the chaos bag after the test ends.)</i>\n"
@@ -216,13 +219,13 @@ msgid ""
 msgstr ""
 
 msgid "No more than eight total [frost] tokens can be included in the chaos bag and/or sealed on cards in play at any given time."
-msgstr ""
+msgstr "Não mais do que oito tokens [congelado] no total podem ser incluídos no saco do caos e / ou selados nas cartas em jogo a qualquer momento."
 
 msgid "A [frost] token revealed outside of a skill test has no effect on its own unless otherwise specified by a card effect."
-msgstr ""
+msgstr "Uma ficha [congelada] revelada fora de um teste de habilidade não tem efeito por si só, a menos que seja especificado de outra forma por um efeito de carta."
 
 msgid "A [frost] token added to the chaos bag remains in the chaos bag from scenario to scenario unless removed by a card or game effect. The app will track these additions/removals automatically."
-msgstr ""
+msgstr "Uma ficha [congelada] adicionada à bolsa do caos permanece na bolsa do caos de cenário para cenário, a menos que seja removida por uma carta ou efeito de jogo. O aplicativo rastreará essas adições / remoções automaticamente."
 
 msgid "Tekeli-li!"
 msgstr ""
@@ -231,151 +234,153 @@ msgid ""
 "This campaign includes an encounter set of 16 weaknesses, each with the title \"Tekeli-li!\" These cards are shuffled together to form a special Tekeli-li deck during the setup of each scenario of this campaign.\n"
 "Like normal weaknesses, if one of these cards is added to an investigator's deck, it becomes a part of that deck and stays with that investigator from scenario to scenario. However, the resolution of each Tekeli-li! weakness instructs the investigator to return it to the Tekeli-li deck (removing it from their own deck). As a result, the number of cards in the Tekeli-li deck varies based on how many of these weaknesses are in each investigator's deck.\n"
 "<i>Note: While all Tekeli-li! cards share the same title, they may have differing effects.</i>"
-msgstr ""
+msgstr ""Esta campanha inclui um conjunto de 16 cartas de fraquezas, cada um com o título \" Tekeli-li! \ "Essas cartas são embaralhadas para formar um baralho Tekeli-li especial durante a configuração de cada cenário desta campanha. \ N"
+"Como fraquezas normais, se uma dessas cartas for adicionada ao deck de um investigador, ela se torna parte desse deck e permanece com aquele investigador de cenário a cenário. No entanto, a resolução de cada fraqueza Tekeli-li! Instrui o investigador a retornar para o deck Tekeli-li (removendo-o de seu próprio deck). Como resultado, o número de cartas no deck Tekeli-li varia com base em quantas dessas fraquezas estão no deck de cada investigador. \ n "
+"<i> Observação: embora todos as cartas do Tekeli-li! compartilhem o mesmo título, elas podem ter efeitos diferentes. </i>""
 
 msgid "Partner"
-msgstr ""
+msgstr "Parceiro"
 
 msgid "Partner is a keyword ability that appears on the nine story assets in the <i>Expedition Team</i> encounter set. Each of these assets represents a powerful ally whom investigators can bring along during scenarios in this campaign to improve their chances of success. However, bringing an asset with the partner keyword endangers that asset, with the risk of losing them permanently."
-msgstr ""
+msgstr "Parceiro é uma palavra-chave que aparece nos ativos de nove histórias no conjunto de encontros <i> Equipe de expedição </i>. Cada um desses ativos representa um aliado poderoso que os investigadores podem trazer durante os cenários desta campanha para melhorar suas chances de sucesso. No entanto, trazer um ativo com a palavra-chave de parceiro coloca esse ativo em risco, com o risco de perdê-lo permanentemente."
 
 msgid "At the start of each scenario in this campaign, each investigator is given the option to choose a partner asset and put it into play. Partner assets cannot be added to an investigator's deck. An investigator may choose a different partner (or no partner) to bring each time they are given this choice."
-msgstr ""
+msgstr "No início de cada cenário desta campanha, cada investigador tem a opção de escolher um ativo de parceiro e colocá-lo em jogo. Os ativos do parceiro não podem ser adicionados ao deck de um investigador. Um investigador pode escolher um parceiro diferente (ou nenhum parceiro) para trazer cada vez que tiver essa escolha."
 
 msgid "A partner asset cannot leave play unless it is defeated (for example, it cannot be discarded by card effects unless it is explicitly defeated). If an investigator is defeated, any partner asset they have with them is also defeated."
-msgstr ""
+msgstr "Um ativo de parceiro não pode deixar o jogo a menos que seja derrotado (por exemplo, não pode ser descartado por efeitos de cartas, a menos que seja explicitamente derrotado). Se um investigador for derrotado, qualquer ativo de parceiro que eles tenham com ele também é derrotado."
 
 msgid "If a partner asset is defeated, remove it from the game. Then, cross off that character's name in the Expedition Team section of the Campaign Log."
-msgstr ""
+msgstr "Se um ativo de parceiro for derrotado, remova-o do jogo. Em seguida, risque o nome desse personagem na seção Equipe de Expedição do Registro de Campanha."
 
 msgid "Damage or horror on a partner asset is recorded in the Expedition Team section of the Campaign Log at the end of each game. <i>(The Campaign Guide will instruct you when to do this.)</i>"
-msgstr ""
+msgstr "Danos ou horrores em um ativo de parceiro são registrados na seção Equipe de expedição do Registro de campanha no final de cada jogo. <i> (O Guia da campanha irá instruí-lo quando fazer isso.) </i>"
 
 msgid "If an investigator resigns from a scenario, their partner asset leaves play, but is not defeated. Keep all damage and horror on it, as it will be recorded in the Campaign Log after the game ends."
-msgstr ""
+msgstr "Se um investigador desistir de um cenário, seu ativo parceiro sai do jogo, mas não é derrotado. Mantenha todos os danos e horror sobre ele, pois será registrado no Registro de Campanha após o término do jogo."
 
 msgid "Each time an investigator fails a skill test while attempting to evade an enemy with the alert keyword, after applying all results for that skill test, that enemy performs an attack against the evading investigator. An enemy does not exhaust after performing an alert attack. This attack occurs whether the enemy is engaged with the evading investigator or not."
-msgstr ""
+msgstr "Cada vez que um investigador falha em um teste de habilidade enquanto tenta escapar de um inimigo com a palavra-chave de alerta, depois de aplicar todos os resultados para aquele teste de habilidade, aquele inimigo executa um ataque contra o investigador que está evadindo. Um inimigo não se esgota após realizar um ataque de alerta. Este ataque ocorre se o inimigo está engajado com o investigador evasivo ou não."
 
 msgid "Safe Bet"
-msgstr ""
+msgstr "Aposta Segura"
 
 msgid "Camp at a location with a shelter value of 8 in <i>Ice and Death, Part I</i>."
-msgstr ""
+msgstr "Acampe em um local com valor de abrigo de 8 em <i> Gelo e Morte, Parte I</i>"
 
 msgid "Look at All This Stuff!"
-msgstr ""
+msgstr "Olhe para todas essas coisas!"
 
 msgid "Recover all seven supplies in <i>Ice and Death</i>, and carry all of them to The Summit in <i>To the Forbidden Peaks</i>."
-msgstr ""
+msgstr "Recupere todos os sete suprimentos em <i> Gelo e Morte </i> e leve todos eles para o Cume em <i> Para os Picos Proibidos </i>."
 
 msgid "In Your Head"
-msgstr ""
+msgstr "Na sua cabeça"
 
 msgid "Finish <i>Fatal Mirage</i> with nine story cards in the victory display."
-msgstr ""
+msgstr "Termine o <i> Miragem Fatal </i> com nove cartas de história na exibição da vitória"
 
 msgid "Chaos Chaos"
-msgstr ""
+msgstr "Caos Caos"
 
 msgid "Collect and spend a total of ten or more keys in <i>City of the Elder Things</i>."
-msgstr ""
+msgstr "Colete e gaste um total de dez ou mais chaves em <i> Cidade das Coisas Mais Antigas </i>"
 
 msgid "Knock, Knock"
-msgstr ""
+msgstr "Knock, Knock"
 
 msgid "Collect, activate, and place all five seals in <i>The Heart of Madness, Part I</i>."
-msgstr ""
+msgstr "Colete, ative e coloque todos os cinco selos em <i> O Coração da Loucura, Parte I </i>."
 
 msgid "Mad With Power"
-msgstr ""
+msgstr "Louco com poder"
 
 msgid "Simultaneously exhaust fifteen copies of The Nameless Madness in <i>The Heart of Madness, Part II</i>."
-msgstr ""
+msgstr "Esgote simultaneamente quinze cópias de A loucura Sem Nome em <i> O Coração da Loucura, Parte II </i>."
 
 msgid "Construct Additional Pylons"
-msgstr ""
+msgstr "Construir pilares adicionais"
 
 msgid "Collapse all five Mist-Pylons and escape with your life in <i>The Heart of Madness, Part II</i>."
-msgstr ""
+msgstr "Colapse todos os cinco Pilares de Névoa e escape com vida em <i> O Coração da Loucura, Parte II </i>"
 
 msgid "The Sound of Madness"
-msgstr ""
+msgstr "O som da loucura"
 
 msgid "Draw 10 copies of \"Tekeli-li!\" during a single game."
-msgstr ""
+msgstr "Retire 10 cópias de \ "Tekeli-li! \" Durante um único jogo."
 
 msgid "Sorry, I'm All Out of Dog Puns"
-msgstr ""
+msgstr "Desculpe, estou sem cachorrilhos"
 
 msgid "Have Anyu and four or more other assets with \"Dog\" in their title in play at the same time."
-msgstr ""
+msgstr "Tenha Anyu e quatro ou mais outros ativos com \"Cachorro \" em seu título em jogo ao mesmo tempo."
 
 msgid "Kind of a Hat on a Hat"
-msgstr ""
+msgstr "Uma espécie de chapéu com chapéu"
 
 msgid "Play a Wooden Sledge from a Backpack, then immediately use its ability to attach a backpack to it."
-msgstr ""
+msgstr "Jogue um trenó de madeira com uma mochila e, em seguida, use imediatamente sua habilidade para anexar uma mochila a ele."
 
 msgid "This Was Your Idea"
-msgstr ""
+msgstr "Esta foi sua ideia"
 
 msgid "Use Professor William Dyer's ability to heal at least 4 horror from Danforth during a single scenario."
-msgstr ""
+msgstr "Use a habilidade do Professor William Dyer para curar pelo menos 4 horrores de Danforth durante um único cenário."
 
 msgid "No Respect For the Dead"
-msgstr ""
+msgstr "Sem respeito pelos mortos"
 
 msgid "Control at least five assets from the <i>Memorials of the Lost</i> encounter set at the same time."
-msgstr ""
+msgstr "Controle pelo menos cinco ativos do encontro <i> Memoriais dos Perdidos </i> ao mesmo tempo."
 
 msgid "Wuk Wuk Boom"
-msgstr ""
+msgstr "Wuk Wuk Boom"
 
 msgid "Use Dynamite to defeat two Giant Albino Penguins at the same time."
-msgstr ""
+msgstr "Use a dinamite para derrotar dois pinguins albinos gigantes ao mesmo tempo."
 
 msgid "The Cold Never Bothered Me"
-msgstr ""
+msgstr "O frio nunca me incomodou"
 
 msgid "Win the <i>Edge of the Earth</i> campaign with eight [frost] tokens in the chaos bag at the end of the campaign."
-msgstr ""
+msgstr "Ganhe a campanha <i> Nos confins da Terra </i> com oito fichas [congelada] no saco do caos no final da campanha."
 
 msgid "Hell Froze Over"
-msgstr ""
+msgstr "Inferno Congelado"
 
 msgid "Win the <i>Edge of the Earth</i> campaign with zero [frost] tokens in the chaos bag at the end of the campaign."
-msgstr ""
+msgstr "Ganhe a campanha <i> Nos confins da Terra </i> com zero fichas [congelada] no saco do caos no final da campanha."
 
 msgid "Abandoned and Alone"
-msgstr ""
+msgstr "Abandonado e Sozinho"
 
 msgid "Win the <i>Edge of the Earth</i> campaign without ever bringing a partner asset along with you during a scenario."
-msgstr ""
+msgstr "Ganhe a campanha <i> Nos confins da Terra </i> sem nunca trazer um ativo de parceiro com você durante um cenário."
 
 msgid "Friends Forever"
-msgstr ""
+msgstr "Amigos para sempre"
 
 msgid "Bring the same partner with you in each scenario, ensure that they have confronted their demons, and win the <i>Edge of the Earth</i> campaign with them still alive."
-msgstr ""
+msgstr "Traga o mesmo parceiro com você em cada cenário, certifique-se de que eles tenham confrontado seus demônios e ganhe a campanha <i> Nos confins da Terra</i> com eles ainda vivos."
 
 msgid "There and Back Again"
-msgstr ""
+msgstr "Lá e Ca Outra Vez"
 
 msgid "Win the <i>Edge of the Earth</i> campaign with each of the following survivors:"
-msgstr ""
+msgstr "Ganhe a campanha <i> Nos confins da Terra </i> com cada um dos seguintes sobreviventes:"
 
 msgid "Professor William Dyer"
 msgstr ""
 
 msgid "Line in the… Snow"
-msgstr ""
+msgstr "Linha na...neve"
 
 msgid "Win the <i>Edge of the Earth</i> campaign with at least three Ultimatums active."
-msgstr ""
+msgstr "Ganhe a campanha <i> Nos confins da Terra </i> com pelo menos três ultimatos ativos"
 
 msgid "Antarctic Expertise"
-msgstr ""
+msgstr "Perícia antártica"
 
 msgid "Win the <i>Edge of the Earth</i> campaign on Expert difficulty"
-msgstr ""
+msgstr "Vença a campanha <i> Nos confins </i> na dificuldade Expert"
