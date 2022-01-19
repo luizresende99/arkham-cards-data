@@ -127,43 +127,43 @@ msgid "Note: At the start of Part 1, only Crash Site, Treacherous Path, Frozen S
 msgstr "\"Nota: no início da Parte 1, apenas Local de acidente, Caminho Traiçoeiro, Costas congeladas e Manto de gelo precário estão em jogo. Cada outro local inicia o jogo separado e é colocado em jogo quando um investigador entra em um dos locais de conexão , de acordo com a capacidade nas agendas 1-3."
 
 msgid "Precarious Ice Sheet"
-msgstr "Manto de gelo precário"
+msgstr "Precarious Ice Sheet"
 
 msgid "Treacherous Path"
-msgstr "Caminho Traiçoeiro"
+msgstr "Treacherous Path"
 
 msgid "Crash Site"
-msgstr "Local de acidente"
+msgstr "Crash Site"
 
 msgid "Frozen Shores"
-msgstr "Costas congeladas"
+msgstr "Frozen Shores"
 
 msgid "Remnants of Lake's Camp"
-msgstr "Remanescentes do acampamento do lago"
+msgstr "Remnants of Lake's Camp"
 
 msgid "Crystalline Cavern"
-msgstr "Caverna Cristalina"
+msgstr "Crystalline Cavern"
 
 msgid "Broad Snowdrifts"
-msgstr "Monte de Neve"
+msgstr "Broad Snowdrifts"
 
 msgid "Snow Graves"
-msgstr "Túmulo de neve"
+msgstr "Snow Graves"
 
 msgid "Icy Wastes"
-msgstr "Resíduos gelados"
+msgstr "Icy Wastess"
 
 msgid "Rocky Crags"
-msgstr "Rochosos"
+msgstr "Rocky Crags"
 
 msgid "Barrier Camp"
-msgstr "Acampamento Barreira"
+msgstr "Barrier Camp"
 
 msgid "Icebreaker Landing"
-msgstr "Aterrissagem do quebra-gelo"
+msgstr "Icebreaker Landing"
 
 msgid "Frigid Cave"
-msgstr "Gruta Gelada"
+msgstr "Frigid Cave"
 
 msgid "Set each Skittering Nonsense enemy aside, out of play."
 msgstr "Coloque cada inimigo do Nonsense Skittering de lado, fora do jogo."
@@ -187,49 +187,49 @@ msgid "Camp Location:"
 msgstr "Localização do acampamento:"
 
 msgid "Camp - Icebreaker Landing (5)"
-msgstr "Acampamento - Aterrissagem do quebra-gelo (5)"
+msgstr "Acampamento - Icebreaker Landing  (5)"
 
 msgid "Camp - Icy Wastes (4)"
-msgstr "Acampamento - Resíduos gelados (4)"
+msgstr "Acampamento - Icy Wastess (4)"
 
 msgid "Camp - Barrier Camp (7)"
-msgstr "Acampamento - Acampamento Barreira (7)"
+msgstr "Acampamento - Barrier Camp (7)"
 
 msgid "Camp - Rocky Crags (3)"
-msgstr "Acampamento - Penhascos Rochosos (3)"
+msgstr "Acampamento - Rocky Crags (3)"
 
 msgid "Camp - Frigid Cave (6)"
-msgstr "Acampamento - Gruta Gelada (6)"
+msgstr "Acampamento - Frigid Cave (6)"
 
 msgid "Camp - Precarious Ice Sheet (2)"
-msgstr "Acampamento - Manto de Gelo Precário (2)"
+msgstr "Acampamento - Precarious Ice Sheet (2)"
 
 msgid "Camp - Treacherous Path (1)"
-msgstr "Acampamento - caminho traiçoeiro (1)"
+msgstr "Acampamento - Treacherous Path (1)"
 
 msgid "Camp - Crash Site (0)"
-msgstr "Acampamento - Local do acidente (0)"
+msgstr "Acampamento - Crash Site (0)"
 
 msgid "Camp - Remnants of Lake's Camp (7)"
-msgstr "Acampamento - Remanescentes do Acampamento do Lago (7)"
+msgstr "Acampamento - Remnants of Lake's Camp (7)"
 
 msgid "Camp - Frozen Shores (2)"
-msgstr "Acampamento - Costas congeladas (2)"
+msgstr "Acampamento - Frozen Shores (2)"
 
 msgid "Camp - Crystalline Cavern (8)"
-msgstr "Acampamento - Caverna Cristalina (8)"
+msgstr "Acampamento - Crystalline Cavern (8)"
 
 msgid "Camp - Broad Snowdrifts (4)"
-msgstr "Acampamento - Monte de Neve (4)"
+msgstr "Acampamento - Broad Snowdrifts (4)"
 
 msgid "Camp - Snow Graves (5)"
-msgstr "Acampamento - Túmulos de neve (5)"
+msgstr "Acampamento - Snow Graves (5)"
 
 msgid "In your Campaign Log, write \"Camp -,\" and next to it, record the name of the location the investigators resigned at. This location is referred to as the investigators' camp for the remainder of <i>Ice and Death</i>."
 msgstr "Em seu Registro de Campanha, escreva \" Acampamento -, \\ \"e próximo a ele, registre o nome do local onde os investigadores renunciaram. Este local é conhecido como acampamento dos investigadores pelo restante de <i> Gelo e Morte </i>."
 
 msgid "Adjust frost tokens"
-msgstr "Ajustar tokens de gelo"
+msgstr "Ajustar fichas de gelo"
 
 msgid "Recover supplies"
 msgstr "Recuperar suprimentos"
