@@ -84,7 +84,7 @@ msgid "Unfortunately, as you attempt to leave the structure, you find the passag
 msgstr "Infelizmente, ao tentar sair da estrutura, você encontra a passagem bloqueada por gelo e escombros. Leva muito mais tempo do que você esperava para encontrar outra saída e, quando finalmente escapa, já ficou exposto ao frio há algum tempo."
 
 msgid "Add 1 [frost] token to the chaos bag."
-msgstr "Adicione 1 ficha [frost] ao saco do caos."
+msgstr "Adicione 1 ficha [frost] à Bolsa do caos."
 
 msgid "The trail of sickly green blood leads out and dribbles down a smooth path sculpted, as if by an acidic substance, out of the mountainside. In the opposite direction, the mountain ridge continues along the perimeter of the city. In the distance, you can just make out a darkened, half-buried section of the city, the layout of its structures completely unfamiliar to you, even after going through Dyer's notes extensively. Finally, in the heart of the city, a great pyramid and many prominent temples lie scattered, rising to amazing heights despite the weathering of many eons."
 msgstr "O rastro de sangue verde doentio sai e escorre por um caminho liso esculpido, como se fosse por uma substância ácida, para fora da encosta da montanha. Na direção oposta, a montanha continua ao longo do perímetro da cidade. À distância, você pode apenas distinguir uma seção escura e semi-enterrada da cidade, o layout de suas estruturas completamente desconhecido para você, mesmo depois de ler extensivamente as anotações de Dyer. Finalmente, no coração da cidade, uma grande pirâmide e muitos templos proeminentes estão espalhados, elevando-se a alturas incríveis, apesar do desgaste de muitas eras."
